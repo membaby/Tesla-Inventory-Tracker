@@ -1,0 +1,10 @@
+I am writing to inform you that a new Tesla Model Y vehicle has been listed for [INSERT_PRICE_HERE] EUR.
+
+The vehicle details are as follows:
+
+    TrimName: [INSERT_TRIM_HERE]
+    Price: [INSERT_PRICE_HERE]
+    Location: [INSERT_CITY_HERE]
+
+If you are interested in purchasing this vehicle or would like more information, please follow the link provided below:
+[INSERT_URL_HERE]
